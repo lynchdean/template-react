@@ -1,11 +1,12 @@
 # template-react
 
-Template for React project with Typescript and github pages configured.
+Template for React project with Typescript, bootstrap and github pages pre-configured.
 
 Inlcudes github action to automatically deploy updates to site when new changes are pushed to main.
 
 ### TODO when using this template:
-* Update homepage in package.json to your own homepage.
+* Update homepage and name in package.json.
+* Update name in package-lock.json
 * Add personal access token (Use name ACTIONS_DEPLOY_ACCESS_TOKEN, or change workflow deploy file to match new name) for deploy access in repo secrets.
 
 
