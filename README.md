@@ -5,7 +5,8 @@ Template for React project with Typescript and github pages configured.
 Inlcudes github action to automatically deploy updates to site when new changes are pushed to main.
 
 ### TODO when using this template:
-* Update homepage in package.json to your own homepage
+* Update homepage in package.json to your own homepage.
+* Add personal access token (Use name ACTIONS_DEPLOY_ACCESS_TOKEN, or change workflow deploy file to match new name) for deploy access in repo secrets.
 
 
 
