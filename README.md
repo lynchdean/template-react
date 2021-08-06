@@ -1,3 +1,14 @@
+# template-react
+
+Template for React project with Typescript and github pages configured.
+
+Inlcudes github action to automatically deploy updates to site when new changes are pushed to main.
+
+### TODO when using this template:
+* Update homepage in package.json to your own homepage
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
