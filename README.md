@@ -1,6 +1,6 @@
 # template-react
 
-Template for React project with Typescript, bootstrap and github pages pre-configured.
+Lightweight template for React project with Typescript, bootstrap and github pages pre-configured.
 
 Inlcudes github action to automatically deploy updates to site when new changes are pushed to main.
 
